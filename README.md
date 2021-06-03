@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m João, a software engineeer student based in Braga, Portugal.
+- I’m João, a software engineeer student at University of Minho.
 - I’m currently studying:
   - Application Engineering 💻
   - Artificial Intelligence 🤖 
