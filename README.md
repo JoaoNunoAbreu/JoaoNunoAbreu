@@ -2,7 +2,7 @@
 
 - I’m João, a software engineeer student based in Braga, Portugal.
 - I’m currently studying:
-  - Full Stack Development 💻
+  - Application Engineering 💻
   - Artificial Intelligence 🤖 
 
 ### Social links
