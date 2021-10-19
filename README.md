@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - I’m João, a software engineeer student at University of Minho.
-- I’m currently studying:
-  - Application Engineering 💻
-  - Artificial Intelligence 🤖 
+- I'm currently working on my thesis
+- I'm finishing my master's degree in Software Engineering
 
 ### Social links
 
