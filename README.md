@@ -4,6 +4,8 @@
 - I'm currently working on my thesis
 - I'm finishing my master's degree in Software Engineering
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaonunoabreu&count_private=true&show_icons=true&theme=tokyonight)
+
 ### Social links
 
 <a href="https://www.facebook.com/joaonuno.abreu" target="_blank">
