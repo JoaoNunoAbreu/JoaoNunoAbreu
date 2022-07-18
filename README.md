@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - I’m João, a software engineeer student @ University of Minho.
-- I'm currently working on my thesis
-- I'm finishing my master's degree in Software Engineering
+- I'm currently working on my masters thesis *"Development of DNA sequence classifiers based on deep learning"*.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaonunoabreu&count_private=true&show_icons=true&theme=tokyonight)
 
