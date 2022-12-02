@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I’m João, a backend developer @ ~~University of Minho~~ [Blip](https://www.blip.pt/).
+- I’m João, a backend developer @ [Blip](https://www.blip.pt/).
 - I was software engineeer student @ University of Minho (saudades 🥲).
 - I'm ~~currently working~~ finally done with my masters thesis *"Development of DNA sequence classifiers based on deep learning"*. 😁 Check it out [here](https://joaonunoabreu.github.io/data/Tese_Joao_Abreu.pdf).
 
