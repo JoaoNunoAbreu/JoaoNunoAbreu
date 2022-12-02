@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I’m João, a software engineeer student @ University of Minho.
-- I'm currently working on my masters thesis *"Development of DNA sequence classifiers based on deep learning"* with [OmniumAI](https://github.com/omniumai).
+- I'm ~~currently working~~ finally done with my masters thesis *"Development of DNA sequence classifiers based on deep learning"* with [OmniumAI](https://github.com/omniumai). 😁 Check it out [here](https://joaonunoabreu.github.io/data/Tese_Joao_Abreu.pdf).
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaonunoabreu&count_private=true&show_icons=true&theme=tokyonight)
 
