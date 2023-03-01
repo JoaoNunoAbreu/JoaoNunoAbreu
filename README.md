@@ -3,6 +3,7 @@
 - I’m João, a backend developer @ [Blip](https://www.blip.pt/).
 - I was software engineeer student @ University of Minho.
 - I recently finished my masters dissertation *"Development of DNA sequence classifiers based on deep learning"*. 😁 Check it out [here](https://joaonunoabreu.github.io/data/Tese_Joao_Abreu.pdf). (18/20)
+- Check my class notes [here](https://github.com/JoaoNunoAbreu/uminho-miei). 
 
 ### Social links
 
